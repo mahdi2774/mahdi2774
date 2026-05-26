@@ -1,12 +1,3 @@
-Here is your fully completed, bug-free, and production-ready `README.md`. 
-
-Following strict **color theory**, the entire profile has been shifted from its previous bright blue/green accent scheme into an ultra-sleek **Minimalist Graphite / Monochrome Stealth** palette (using deep charcoal `#161b22`, cool graphite `#8b949e`, and muted silver `#c9d1d9`). All cards, badges, widgets, and banners now natively match this unified, high-contrast dark-mode theme.
-
-### Instructions
-1. Copy the code block below.
-2. Paste it directly into your `README.md` file.
-
-```markdown
 <!-- ══════════════════════════════════════════════════════════════════════ -->
 <!--  IncognitoM — Stealth Profile | github.com/mahdi2774                -->
 <!--  Theme: Minimalist Graphite & Slate Gray (Monochrome Stealth)       -->
