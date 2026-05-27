@@ -18,6 +18,17 @@
 
 <br>
 
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   WELCOME ANIMATIONS                       -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<!-- WELCOME — GLITCH STYLE -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=40&duration=1&pause=99999&color=58A6FF&center=true&vCenter=true&repeat=false&width=700&height=65&lines=%E2%9C%A6+W+E+L+C+O+M+E+%E2%9C%A6" alt="Welcome" />
+</a>
+
+<br>
+
 <!-- NATURAL GITHUB BADGES -->
 <img src="https://komarev.com/ghpvc/?username=mahdi2774&style=for-the-badge&color=58A6FF&labelColor=0d1117&label=PROFILE+VIEWS" alt="Profile Views"/>
 &nbsp;&nbsp;
@@ -51,7 +62,7 @@ I learn by building. I ship by obsessing over detail. I grow by staying uncomfor
 
 Whether it's a custom code editor (IDE) allowing my batchmates to study on the go, an automated pipeline converting thoughts into pristine project documentation, or a secure triage toolkit built for modern informational research — I care about the craft behind the execution.
 
-My trajectory? **HSC 2027 → BUET → MIT / CMU / Stanford. Build products that matter. Never stop compounding.**
+My trajectory? **HSC 2k27 → MIT / CMU / Stanford. Build products that matter. Never stop compounding.**
 
 <br clear="both">
 
@@ -67,22 +78,21 @@ My trajectory? **HSC 2027 → BUET → MIT / CMU / Stanford. Build products that
 
 <div align="center">
 
-```
+````
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
 ║  NAME       ▸ Md. Mahdi Mubasshir                            ║
 ║  ALIAS      ▸ IncognitoM                                     ║
 ║  HANDLE     ▸ @mahdi2774                                     ║
 ║  LOCATION   ▸ Mymensingh, Bangladesh                         ║
-║  ROLE       ▸ Science Student (HSC '27, SSNIC) & Coder       ║
-║  FOCUS      ▸ Competitive Programming & Advanced Mathematics ║
+║  ROLE       ▸ Science Student (HSC '27, SSNIC) & Developer   ║
+║  FOCUS      ▸ Programming & Turning Ideas Into Reality       ║
 ║  LANGUAGES  ▸ C · C++ · Python · HTML · CSS                  ║
 ║  INTERESTS  ▸ Die-hard Linux User (Debian / Mint / Kali)     ║
-║  STATUS     ▸ On a strict 2-year academic comeback mission!  ║
 ║  GOAL       ▸ Ship. Learn. Repeat. Scale.                    ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
-```
+````
 
 </div>
 
@@ -102,7 +112,7 @@ My trajectory? **HSC 2027 → BUET → MIT / CMU / Stanford. Build products that
 <tr>
 <td width="33%" align="center">
 
-### 🔮 SSNICIDE
+### SSNICIDE
 <br>
 <p><em>A custom mobile-compatible IDE engineered for SSNIC peers to practice compiling code directly from their phones.</em></p>
 <br>
@@ -113,7 +123,7 @@ My trajectory? **HSC 2027 → BUET → MIT / CMU / Stanford. Build products that
 </td>
 <td width="33%" align="center">
 
-### ⚡ DocForge-AI
+### DocForge-AI
 <br>
 <p><em>Open-source utility powered by Gemini 3 Flash that translates rough concepts into instantly deployed GitHub documentation.</em></p>
 <br>
@@ -124,7 +134,7 @@ My trajectory? **HSC 2027 → BUET → MIT / CMU / Stanford. Build products that
 </td>
 <td width="33%" align="center">
 
-### 🛸 claimscout
+### claimscout
 <br>
 <p><em>A privacy-first open-source triage toolkit designed for rigorous, explainable misinformation tracking.</em></p>
 <br>
@@ -196,11 +206,10 @@ My trajectory? **HSC 2027 → BUET → MIT / CMU / Stanford. Build products that
 
 | | |
 |:---:|:---|
-| 🎯 | **Ship first, polish later.** Perfectionism breeds stagnation. Execute swiftly. |
-| 🧠 | **Depth over breadth.** Deep-dive into systems. Avoid surface-level templates. |
-| 🔓 | **Open source is leverage.** Building in public acts as proof of talent. |
-| 🏗️ | **Build > Talk.** A green-grained commit timeline outclasses a verbose resume. |
-| ♻️ | **Iterate relentlessly.** Software is an organic sequence of rapid versions. |
+| 1. | **Ship first, polish later.** Perfectionism breeds stagnation. Execute swiftly. |
+| 2. | **Depth over breadth.** Deep-dive into systems. Avoid surface-level templates.  |
+| 3. | **Open source is leverage.** Building in public acts as proof of talent.        |
+| 4. | **Iterate relentlessly.** Software is an organic sequence of rapid versions.    |
 
 </div>
 
@@ -251,11 +260,11 @@ My trajectory? **HSC 2027 → BUET → MIT / CMU / Stanford. Build products that
 ```
 ┌─────────────────────────────────────────────────────┐
 │                                                     │
-│  ◈  Designed & Deployed SSNICIDE Custom IDE         │
+│  ◈  Designed & Deployed ClaimScout                  │
 │  ◈  Engineered DocForge-AI Document Engine          │
 │  ◈  Built claimscout OSINT Misinformation Pipeline  │
 │  ◈  Averaging clean, structured, native C/C++       │
-│  ◈  Deep Vector Algebra & Thermodynamic Projects    │
+│  ◈  Designed & Deployed SSNICIDE Custom IDE         │
 │  ◈  Maintaining a strictly decoupled Linux Setup    │
 │                                                     │
 └─────────────────────────────────────────────────────┘
@@ -278,10 +287,9 @@ My trajectory? **HSC 2027 → BUET → MIT / CMU / Stanford. Build products that
 ```bash
 ╭──── IncognitoM :: system status ──────────────────────────────────────────╮
 │                                                                           │
-│  ▸ currently:    On a strict 2-year academic comeback mission             │
-│  ▸ working on:   SSNICIDE · DocForge-AI                                   │
-│  ▸ learning:     Physics, Higher Math, and advanced C++                   │
-│  ▸ ask me about: Competitive Programming & Advanced Mathematics           │
+│  ▸ working on:   Currently Working on my Biggest research ClaimScout.     │
+│  ▸ learning:     CS50 and advanced C++                                    │
+│  ▸ ask me about: Programming & Advanced Problems                          │
 │  ▸ mantra:       "Make it work. Make it right. Make it fast."             │
 │  ▸ uptime:       since 2024                                               │
 │                                                                           │
@@ -324,18 +332,32 @@ My trajectory? **HSC 2027 → BUET → MIT / CMU / Stanford. Build products that
 
 <br>
 
+<h2 align="center">🌐 Connect With Me</h2>
+
 <div align="center">
 
-<a href="https://github.com/mahdi2774">
-  <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<a href="https://github.com/mahdi2774" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-&nbsp;&nbsp;
+
+<a href="https://www.facebook.com/dubir4022" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+
+<a href="https://scratch.mit.edu/users/mahdi2774/" target="_blank">
+  <img src="https://img.shields.io/badge/Scratch-FF8C1A?style=for-the-badge&logo=scratch&logoColor=white" alt="Scratch"/>
+</a>
+
+<a href="https://youtube.com/@" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
+
 <a href="mailto:mdmahdimubasshir@gmail.com">
-  <img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
+  <img src="https://img.shields.io/badge/Gmail-1F2937?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
 </a>
-&nbsp;&nbsp;
-<a href="https://wa.me/8801979841739">
-  <img src="https://img.shields.io/badge/WhatsApp-161b22?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp"/>
+
+<a href="https://wa.me/8801979841739" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-111827?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp"/>
 </a>
 
 </div>
