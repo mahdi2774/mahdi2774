@@ -13,7 +13,7 @@
 
 <!-- NATURAL TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=9ca3af&center=true&vCenter=true&multiline=false&repeat=true&width=820&height=45&lines=%E2%96%B8+Built+SSNICIDE+%E2%80%94+a+mobile+IDE+for+my+SSNIC+batchmates;%E2%96%B8+Shipped+DocForge-AI+%E2%80%94+raw+ideas+into+structured+docs;%E2%96%B8+Created+ClaimScout+%E2%80%94+privacy-first+claim+triage;%E2%96%B8+Building+tools+people+use%2C+not+portfolio+filler;%E2%96%B8+Goal%3A+open-source+work+that+outlasts+any+resume;%E2%96%B8+Roadmap%3A+HSC+'27+%E2%9E%94+MIT+%2F+CMU+%2F+Stanford;%E2%96%B8+Linux+%C2%B7+terminal+darkness+%C2%B7+ship+before+perfection" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=9ca3af&center=true&vCenter=true&multiline=false&repeat=true&width=820&height=45&lines=%E2%96%B8+Built+SSNICIDE+%E2%80%94+a+mobile+IDE+for+my+SSNIC+batchmates;%E2%96%B8+Created+ClaimScout+%E2%80%94+privacy-first+claim+triage;%E2%96%B8+Building+tools+people+use%2C+not+portfolio+filler;%E2%96%B8+Goal%3A+open-source+work+that+outlasts+any+resume;%E2%96%B8+Roadmap%3A+HSC+'27+%E2%9E%94+MIT+%2F+CMU+%2F+Stanford;%E2%96%B8+Linux+%C2%B7+terminal+darkness+%C2%B7+ship+before+perfection" alt="Typing SVG" />
 </a>
 
 <br>
@@ -251,7 +251,6 @@ My trajectory? **HSC 2k27 → MIT / CMU / Stanford. Build products that matter. 
 ┌─────────────────────────────────────────────────────┐
 │                                                     │
 │  ◈  Designed & Deployed ClaimScout                  │
-│  ◈  Engineered DocForge-AI Document Engine          │
 │  ◈  Built claimscout OSINT Misinformation Pipeline  │
 │  ◈  Averaging clean, structured, native C/C++       │
 │  ◈  Designed & Deployed SSNICIDE Custom IDE         │
