@@ -123,17 +123,6 @@ My trajectory? **HSC 2k27 → MIT / CMU / Stanford. Build products that matter. 
 </td>
 <td width="33%" align="center">
 
-### DocForge-AI
-<br>
-<p><em>Open-source utility powered by Gemini 3 Flash that translates rough concepts into instantly deployed GitHub documentation.</em></p>
-<br>
-<a href="https://github.com/mahdi2774/DocForge-AI">
-<img src="https://img.shields.io/badge/VIEW_REPO-161b22?style=for-the-badge&logo=github&logoColor=58A6FF"/>
-</a>
-
-</td>
-<td width="33%" align="center">
-
 ### claimscout
 <br>
 <p><em>A privacy-first open-source triage toolkit designed for rigorous, explainable misinformation tracking.</em></p>
@@ -168,6 +157,7 @@ My trajectory? **HSC 2k27 → MIT / CMU / Stanford. Build products that matter. 
 
 ![C](https://img.shields.io/badge/C-161b22?style=for-the-badge&logo=c&logoColor=A8B9CC)
 ![C++](https://img.shields.io/badge/C++-161b22?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![JavaScript](https://img.shields.io/badge/JavaScript-161b22?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-161b22?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![HTML5](https://img.shields.io/badge/HTML5-161b22?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-161b22?style=for-the-badge&logo=css3&logoColor=1572B6)
